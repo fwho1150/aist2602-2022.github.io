@@ -2,7 +2,7 @@ Hello from CUHK AIST2602! This is another playground for our course students to 
 
 There are some teams in our course project:
 
-* [Team Sample](https://aist2602-2021.github.io/project-milestone3-sample/ 'Team Sample')
+* [Team Sample](https://aist2602-2022.github.io/project-milestone3-sample/ 'Team Sample')
 * Team A
 * Team B
 * Team C
