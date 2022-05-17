@@ -4,7 +4,7 @@ There are some teams in our course project:
 
 * [Team Sample](https://aist2602-2022.github.io/project-milestone3-team-sample/ 'Team Sample')
 * Team A
-* Team B
+* [Team B](https://aist2602-2022.github.io/project-milestone3-team-b/)
 * Team C
 * Team D
 * Team E
